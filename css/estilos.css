@@ -534,6 +534,7 @@ main form {
 main form fieldset {
 	margin: 1%;
 	padding: 1%;
+	width: 90vw;
 
 	border: #A20021 solid 1px;
 }
@@ -544,7 +545,7 @@ main form fieldset legend {
 }
 
 main form fieldset label {
-	margin: 2% 0.5%;
+	margin: 2% 1%;
 }
 
 
